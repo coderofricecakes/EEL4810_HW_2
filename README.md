@@ -19,3 +19,9 @@ Learning rate 1 you have to mannually change the value to either 0.01 or 0.001
 l2_lambda you have to mannually change to either 0 or 0.1
 
 optimzer can have the whole line commented out or you can cun all 4 of them at the same time
+
+
+
+The model is labeled "eel4810_model.pth"
+
+The code is labeled "eel_4810_hw_2__final(1)"
